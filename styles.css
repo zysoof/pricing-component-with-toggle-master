@@ -172,6 +172,7 @@ ul{
         background-repeat: no-repeat;
         background-position: left bottom;
         height: 100vh;
+        width: 100%;
     }
     body{
         background-position: top right;
